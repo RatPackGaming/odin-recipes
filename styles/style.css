@@ -1,0 +1,13 @@
+body{
+  font-family: 'Times New Roman', Times, serif ;
+  background-color: grey;
+}
+h1{
+  color: orange;
+  font-size: 64px;
+  font-weight: 700;
+}
+ul{
+  color: green;
+  font-size: 32px;
+}
