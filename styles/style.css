@@ -11,3 +11,17 @@ ul{
   color: green;
   font-size: 32px;
 }
+
+.description{
+  font-size: 24px;
+}
+
+img{
+  height: 500px;
+  width: auto;
+}
+
+.ingredients, .instructions{
+  color: black;
+  font-size: 24px;
+}
